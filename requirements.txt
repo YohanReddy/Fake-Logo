@@ -1,12 +1,3 @@
-To update the original requirements with the changes you specified, you need to make the following adjustments:
-
-1. Remove the specific version requirement for `pywin32`.
-2. Add or update the TensorFlow-related packages to match the required versions.
-3. Remove or update any other packages as needed.
-
-Here's the updated list of requirements:
-
-```plaintext
 absl-py==2.0.0
 aiohttp==3.9.1
 aiosignal==1.3.1
