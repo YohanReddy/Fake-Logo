@@ -1,10 +1,3 @@
-To address the issue with incompatible Python versions and the missing distribution for `tensorflow-intel`, you can modify your `requirements.txt` file. Here's how you can update it:
-
-```plaintext
-# Use TensorFlow without Intel optimizations
-tensorflow==2.13.0
-
-# Specify other dependencies
 absl-py==2.0.0
 aiohttp==3.9.1
 aiosignal==1.3.1
