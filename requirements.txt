@@ -34,6 +34,7 @@ google-auth==2.26.2
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.60.0
+gunicorn==20.0.4
 h5py==3.10.0
 huggingface-hub==0.20.1
 idna==3.6
@@ -75,6 +76,7 @@ plotly==5.18.0
 prompt-toolkit==3.0.43
 protobuf==4.21.12
 psutil==5.9.7
+psycopg2-binary==2.9.5
 pure-eval==0.2.2
 py4j==0.10.9.7
 pyarrow==14.0.2
